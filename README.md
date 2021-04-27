@@ -1,4 +1,10 @@
-# calc
- Calculadora feita js, jsx, css, html, react
-https://github.com/luisotavioosi/Calcuradora_JS/blob/main/calc.png?raw=true
+# Calculadora feita utilizando javascrip, react, css, html
+
+Tela 1
+
 ![Screenshot](calc.png)
+
+Codificação 
+
+![Screenshot](calc2.png)
+
